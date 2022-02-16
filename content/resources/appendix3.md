@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Market analysis worksheet for a group-based business development plan.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-954-community-owned-enterprise-and-civic-participation-spring-2005/7472d041857e2bba35fda44bd4aaa9b8_appendix3.pdf
+file: /media/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/7472d041857e2bba35fda44bd4aaa9b8_appendix3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Worksheet #1. Market Analysis: What is my target market?'
 uid: 7472d041-857e-2bba-35fd-a44bd4aaa9b8

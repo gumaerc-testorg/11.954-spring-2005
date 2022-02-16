@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: Workshop Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: CDI workshop 3
 uid: 1ec7c480-70c0-ee54-fd42-ac314f950e6c

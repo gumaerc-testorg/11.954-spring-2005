@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Workshop Videos
 uid: 8f36efdb-33dc-301a-8200-56fcead08dcc
 ---
