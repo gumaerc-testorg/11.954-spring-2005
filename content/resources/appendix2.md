@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 18859c6f-dc73-4012-3d5c-4af4bf69a4dd
 resourcetype: Document
 title: Clarifying Roles within Your Business
 uid: ac66e455-be4a-ec36-f391-24dae8531442

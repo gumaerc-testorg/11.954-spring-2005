@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 18859c6f-dc73-4012-3d5c-4af4bf69a4dd
 resourcetype: Document
 title: 'Starting a Group-Based Business: Development Plan'
 uid: 170831a2-cebc-0c95-cf7f-535712efd70b

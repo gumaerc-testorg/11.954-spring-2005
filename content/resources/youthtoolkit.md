@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 18859c6f-dc73-4012-3d5c-4af4bf69a4dd
 resourcetype: Document
 title: Youth Cooperative Toolkit
 uid: 0687514a-9666-3de7-1d92-e0e316868d59

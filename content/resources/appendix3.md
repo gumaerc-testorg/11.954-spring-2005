@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 18859c6f-dc73-4012-3d5c-4af4bf69a4dd
 resourcetype: Document
 title: 'Worksheet #1. Market Analysis: What is my target market?'
 uid: 7472d041-857e-2bba-35fd-a44bd4aaa9b8
