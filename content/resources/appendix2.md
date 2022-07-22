@@ -5,6 +5,7 @@ file: /courses/11-954-community-owned-enterprise-and-civic-participation-spring-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Clarifying Roles within Your Business
 uid: ac66e455-be4a-ec36-f391-24dae8531442
 ---
 Part of a Youth Cooperative Toolkit included as student project.
-

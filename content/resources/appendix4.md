@@ -5,6 +5,7 @@ file: /courses/11-954-community-owned-enterprise-and-civic-participation-spring-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Starting a Group-Based Business: Development Plan'
 uid: 170831a2-cebc-0c95-cf7f-535712efd70b
 ---
 Checklist for starting a group-based business development plan.
-

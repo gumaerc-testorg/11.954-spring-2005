@@ -6,6 +6,7 @@ file: /courses/11-954-community-owned-enterprise-and-civic-participation-spring-
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Youth Cooperative Toolkit
 uid: 0687514a-9666-3de7-1d92-e0e316868d59
 ---
 Student prepared business plan for the establishment of a youth-run community enterprise in Mattapan, Massachusetts.
-
