@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: This section consists of a list of lecture topics covered in the course.
+  As part of this course, students are required to attend four skill-building workshops
+  conducted at MIT in conjunction with Cooperative Development Institute (CDI) CEO
+  Lynn Benander, on Coop organization, financing, and management. Videos of these
+  workshops are provided.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Workshop Videos
 uid: 8f36efdb-33dc-301a-8200-56fcead08dcc
 ---

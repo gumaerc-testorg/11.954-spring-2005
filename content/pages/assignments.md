@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This resource includes the assignment topics to be submitted by the students
+  along with one example of student work.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 18859c6f-dc73-4012-3d5c-4af4bf69a4dd
 ---
@@ -26,7 +31,7 @@ Student Work
 
 An example of student work on Assignment 2 is included below. All work is courtesy of the students named and used with permission.
 
-Youth Cooperative Toolkit ([PDF]({{< baseurl >}}/resources/youthtoolkit)) - Kiara Nagel, Khalil Shahyd, and Michael Weisner
+Youth Cooperative Toolkit ({{% resource_link 0687514a-9666-3de7-1d92-e0e316868d59 "PDF" %}}) - Kiara Nagel, Khalil Shahyd, and Michael Weisner
 
 A set of Appendix Materials included in this report are generously provided by the Cooperative Development Institute (CDI):  
   
