@@ -2,6 +2,7 @@
 content_type: resource
 description: Checklist for starting a group-based business development plan.
 file: /courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/170831a2cebc0c95cf7f535712efd70b_appendix4.pdf
+file_size: 43963
 file_type: application/pdf
 learning_resource_types:
 - Assignments
