@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Market analysis worksheet for a group-based business development plan.
-file: /ol-ocw-studio-app/courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/7472d041857e2bba35fda44bd4aaa9b8_appendix3.pdf
+file: /courses/11-954-community-owned-enterprise-and-civic-participation-spring-2005/7472d041857e2bba35fda44bd4aaa9b8_appendix3.pdf
 file_size: 121891
 file_type: application/pdf
 learning_resource_types:
